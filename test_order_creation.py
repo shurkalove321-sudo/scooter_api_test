@@ -1,8 +1,8 @@
-
+#Довиденко А.В, 34-я когорта - Финальный проект Инженер по тестированию плюс
 import requests # библиотека для работы с API
 import time 
 
-BASE_URL = "https://db4c1c27-599a-46b9-a50b-61859504dd63.serverhub.praktikum-services.ru"
+BASE_URL = "https://d108aa83-58e7-4ee4-a7c6-c5f0b65945b4.serverhub.praktikum-services.ru"
 
 # Создаем заказ 
 create_response = requests.post(
