@@ -1,3 +1,14 @@
+# кэш Python
 __pycache__/
 *.pyc
+
+# виртуальное окружение
+.venv/
+venv/
+
+# кэш pytest
+.pytest_cache/
+
+# настройки IDE
+.idea/
 .vscode/
